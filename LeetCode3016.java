@@ -20,6 +20,7 @@ i++;
 
        return ans; 
     }
+
     public static void main(String[] args) {
         LeetCode3016 obj=new LeetCode3016();
         System.out.println(obj.minimumPushes("absgsgsfdsdsrfssd"));
