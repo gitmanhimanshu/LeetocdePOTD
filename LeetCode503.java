@@ -34,6 +34,7 @@ class LeetCode503{
         }
     public static void main(String[] args) {
         LeetCode503 obj=new LeetCode503();
+    
         System.out.println(Arrays.toString(obj.nextGreaterElements(new int[]{1,2,3,4,3})));
     }
 }
