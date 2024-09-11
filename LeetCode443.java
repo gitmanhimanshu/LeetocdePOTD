@@ -44,6 +44,7 @@ class LeetCode443{
         for(int i=0;i<a.length();i++){
             chars[i]=a.charAt(i);
         }
+        System.out.println(12&9);
         chars=Arrays.copyOf(chars,a.length());
         System.out.println(Arrays.toString(chars));
         return a.length();
